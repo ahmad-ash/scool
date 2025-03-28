@@ -44,3 +44,4 @@ docker-compose.override.yml
 .firebaserc
 .gcloud/
 
+.qodo
